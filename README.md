@@ -20,6 +20,7 @@ The list is alphabetical sorted but I do not say movie X is better than Y becaus
   * [Documentary / Crime](#documentary--crime)
   * [Science Fiction / Fantasy](#science-fiction--fantasy)
   * [Thrillers / Drama](#thrillers--drama)
+  * [Time Travel](#time-travel)
 * [TO BE CONTINUED...](#to-be-continued)
 
 
@@ -31,7 +32,7 @@ The list is alphabetical sorted but I do not say movie X is better than Y becaus
 ### What do you classify as good movie?
 
 A good movie (for me) has some key points like:
-* A good Story and a good scripts
+* A good Story/Script
 * A nice plot
 * A nice twist
 * Good Actors who fit into the role/character
@@ -47,7 +48,7 @@ A stated above that it's almost impossible to say or rate one movie above anothe
 * [Lawrence of Arabia (1962)](https://www.imdb.com/title/tt0056172/)
 
 
-**Why this movie (?) is the big question. (_without spoiling the movie_)**
+**Why this particually movie (?) is the big question (_without spoiling the movie_).**
 
 First of all it was the first movie which I watched in my life, I watched it with my Dad ( † ) together.
 
@@ -55,12 +56,20 @@ Another reason is that I appreciate the art in the movie itself. For most people
 
 I watched the movie like 35 times (_maybe even more_) whenever I'm sad or around Christmas. And each time I watch it I find new details or camera shots which I did not noticed before. The art how they created the entire movie is outstanding and the depth of details as well as the execution and script gives me every single times goosebumps.
 
+**Do you have a fav animated movie?**
+
+I would say [Toy Story (1995)](https://www.imdb.com/title/tt0114709/).
+
+The movie had an significant impact on my life. It woke my interest into [demo making](https://www.youtube.com/watch?v=xxjcU9x-nAw), graphics & and computer science in general.
+
+This movie is interesting because of many aspects. It was the first blockbuster full animated movie ever and every frame took several hours or even days to produce.
+
 
 ### Why do you rewatch movies and is it worth it?
 
 **Yes**, it's worth to rewatch movies.
 
-You will find new details, you might understand the story better. Think of it like something to eat, as little kid you did not eat broccoli but later when you're and adult you might enjoy it because your taste changes over time, similar thing can be said about movies, you maybe change you mind give it a try and rewatch it and then you suddenly noticed: "Hey, I like it!". Because you totally forgot the movie or you are now capable o fully understand every aspect about the movie.
+You will find new details or you might understand the entire story/background better. Think of it like something to eat, as little kid you did not eat broccoli but later when you're and adult you might enjoy it because your taste changes over time, similar thing can be said about movies, you maybe change you mind give it a try and rewatch it and then you suddenly noticed: "Hey, I like it!". Because you totally forgot the movie or you are now capable o fully understand every aspect about the movie.
 
 
 ### Do you have a fav movie genre, or how you rate specific genres?
@@ -70,6 +79,7 @@ You will find new details, you might understand the story better. Think of it li
 * Psycho
 * Science Fiction/Fantasy
 * Mystery
+* Time Travel
 * Crime
 * History
 * Thriller
@@ -159,7 +169,6 @@ You will find new details, you might understand the story better. Think of it li
 | [Live Free or Die Hard](https://www.imdb.com/title/tt0337978/)                             | Thriller/Action             | 2007 | 7.2/10 |
 | [Office Space](https://www.imdb.com/title/tt0151804/)                                      | Comedy/Romance              | 1999 | 7.8/10 |
 | [Pi](https://www.imdb.com/title/tt0138704/)                                                | Drama/Mystery               | 1998 | 7.5/10 |
-| [Primer](https://www.imdb.com/title/tt0390384/)                                            | Thriller/Drama              | 2004 | 7.0/10 |
 | [Reboot](https://www.imdb.com/title/tt2090594/)                                            | Thriller/Drama              | 2012 | 4.1/10 |
 | [Saving Private Ryan](https://www.imdb.com/title/tt0120815/)                               | Drama, War                  | 1998 | 8.6/10 |
 | [Snowden](https://www.imdb.com/title/tt3774114/)                                           | Thriller/Drama              | 2016 | 7.3/10 |
@@ -182,6 +191,26 @@ You will find new details, you might understand the story better. Think of it li
 | [WarGames: The Dead Code](https://www.imdb.com/title/tt0865957/)                           | Thriller/Drama              | 2008 | 4.5/10 |
 | [WarGames](https://www.imdb.com/title/tt0086567/)                                          | Thriller/Drama              | 1983 | 7.1/10 |
 | [Who Am I](https://www.imdb.com/title/tt3042408/)                                          | Drama/Crime                 | 2014 | 7.6/10 |
+
+
+
+## Time Travel
+
+| MOVIE                                                                                      | GENRE                       | YEAR | RATING |
+|--------------------------------------------------------------------------------------------|-----------------------------|------|--------|
+| [12 Monkeys](https://www.imdb.com/title/tt0114746/)                                        | Mystery, Sci-Fi, Thriller   | 1995 | 8.0/10 |
+| [Army of Darkness](https://www.imdb.com/title/tt0289879/)                                  | Comedy, Horror              | 1992 | 7.5/10 |
+| [Arrival](https://www.imdb.com/title/tt0088247/)                                           | Drama, Mystery, Sci-Fi      | 2016 | 7.9/10 |
+| [Bill & Ted's Excellent Adventure](https://www.imdb.com/title/tt0096928/)                  | Adventure, Comedy, Music    | 1989 | 6.9/10 |
+| [Edge of Tomorrow](https://www.imdb.com/title/tt1631867/)                                  | Action, Adventure, Sci-Fi   | 2014 | 7.9/10 |
+| [Interstellar](https://www.imdb.com/title/tt0816692/)                                      | Drama, Mystery, Sci-Fi      | 2014 | 8.6/10 |
+| [Looper](https://www.imdb.com/title/tt1276104/)                                            | Action, Drama, Sci-Fi       | 2012 | 7.4/10 |
+| [Primer](https://www.imdb.com/title/tt0390384/)                                            | Thriller/Drama              | 2004 | 7.0/10 |
+| [The Butterfly Effect](https://www.imdb.com/title/tt0289879/)                              | Drama, Sci-Fi, Thriller     | 2004 | 7.6/10 |
+| [The Terminator](https://www.imdb.com/title/tt0088247/)                                    | Action, Sci-Fi              | 1984 | 8.0/10 |
+| [The Time Machine](https://www.imdb.com/title/tt0268695/)                                  | Action, Adventure, Sci-Fi   | 2002 | 6.0/10 |
+| [Timecop](https://www.imdb.com/title/tt0111438/)                                           | Action, Crime, Sci-Fi       | 1994 | 5.9/10 |
+| [Timecrimes (French only)](https://www.imdb.com/title/tt0480669/)                          | Horror, Mystery, Sci-Fi     | 1984 | 7.2/10 |
 
 
 # TO BE CONTINUED...
